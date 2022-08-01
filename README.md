@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Informasi Tambahan
+Projek menggunakan Vue JS dengan studi kasus membuat website cuaca, 
+API yang digunakan berasal dari [OpenWeather](https://openweathermap.org/)
+[DamaiPatrias](https://github.com/DamaiPatrias). 

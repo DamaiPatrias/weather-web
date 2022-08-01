@@ -1,5 +1,13 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <!-- <my-forecast></my-forecast> -->
+  <div></div>
 </template>
+
+<script>
+// import MyForecast from "@/components/MyForecast.vue";
+
+export default {
+  name: "About-page",
+  // components: { MyForecast },
+};
+</script>
